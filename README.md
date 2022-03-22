@@ -7,10 +7,6 @@
 
 #### 💪 SKILLS
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-<br/>
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white)
@@ -20,4 +16,3 @@
 #### 🏆 GITHUB & BOJ STATS
 ![dianestar's github stats](https://github-readme-stats.vercel.app/api?username=dianestar&show_icons=true&theme=slateorange&hide_title=true&hide_rank=true&border_radius=10)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dianestar)](https://solved.ac/dianestar/)
-
