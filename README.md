@@ -18,8 +18,3 @@
 ![REDUX](https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white)
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-#### 🏆 GITHUB & BOJ STATS
-![dianestar's github stats](https://github-readme-stats.vercel.app/api?username=dianestar&show_icons=true&theme=slateorange&hide_title=true&hide_rank=true&border_radius=10)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dianestar)](https://solved.ac/dianestar/)
-</div>
