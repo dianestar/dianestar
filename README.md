@@ -3,7 +3,8 @@
 <div align=center>
   
 #### 👋 CONTACTS
-<a href="https://velog.io/@dianestar" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://dianestar.notion.site/3c1f3e01fbc742b490a501829943aa51" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@dianestar" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/dianestar@naver.com-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/daeun0731@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
 
